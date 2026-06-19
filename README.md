@@ -20,8 +20,7 @@ This application helps users manage daily tasks efficiently with a clean UI and 
 
 ## 📂 Project Structure
 
-todo-list/
-│
+todo-list
 ├── index.html
 ├── style.css
 ├── script.js
@@ -31,7 +30,7 @@ todo-list/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Zehara-K/todo-list.git
    ```
 2. Open the project folder
 3. Open `index.html` in your browser
